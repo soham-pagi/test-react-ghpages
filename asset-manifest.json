@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/soham-pagi/test-react-ghpages/static/css/main.99db4e0d.css",
+    "main.js": "/soham-pagi/test-react-ghpages/static/js/main.a786aa25.js",
+    "index.html": "/soham-pagi/test-react-ghpages/index.html",
+    "main.99db4e0d.css.map": "/soham-pagi/test-react-ghpages/static/css/main.99db4e0d.css.map",
+    "main.a786aa25.js.map": "/soham-pagi/test-react-ghpages/static/js/main.a786aa25.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99db4e0d.css",
+    "static/js/main.a786aa25.js"
+  ]
+}
